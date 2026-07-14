@@ -1,2 +1,6 @@
 # Phyton-learning
-My Python learning journey.
+Welcome to my Python learning journey!
+## Goals
+- Learn Python fundamentals
+- Build small projects
+- Improve every day 🚀.
